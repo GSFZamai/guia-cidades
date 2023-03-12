@@ -1,5 +1,4 @@
-import React from "react";
-import { Text, Box, Card, CardHeader, Flex, Heading, IconButton, CardBody, CardFooter, Button } from "@chakra-ui/react";
+import { Text, Box, Card, CardHeader, Flex, Heading, CardBody, CardFooter, Button } from "@chakra-ui/react";
 import { EstablishmentDTO } from "../../dtos/models/EstablishmentDTO";
 
 interface EstablishmentCardProps {
